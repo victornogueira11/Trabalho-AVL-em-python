@@ -1,4 +1,4 @@
-# Arquivos compilados do Python (isso bloqueia a pasta que você mencionou)
+# Arquivos compilados do Python
 __pycache__/
 *.py[cod]
 *$py.class
