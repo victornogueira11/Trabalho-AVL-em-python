@@ -1,0 +1,12 @@
+# Arquivos compilados do Python (isso bloqueia a pasta que você mencionou)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pastas de configurações de editores (como o VS Code)
+.vscode/
+.idea/
